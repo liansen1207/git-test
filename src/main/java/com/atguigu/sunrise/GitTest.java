@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("hello git3");
         System.out.println("hello git4");
         System.out.println("在hot-fix分支做了修改");
+        System.out.println("在hot-fix分支做了修改2");
     }
 }
