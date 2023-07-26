@@ -15,6 +15,6 @@ public class GitTest {
         System.out.println("在hot-fix分支做了修改2");
         System.out.println("master commit");
         System.out.println("hot-fix commit");
-        System.out.println("1111");
+        System.out.println("222");
     }
 }
